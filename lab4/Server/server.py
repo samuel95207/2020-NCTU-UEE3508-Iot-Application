@@ -1,6 +1,9 @@
+#!/usr/bin/env/ python
+
 import socket
 import sys
 import time
+
 HOST = '192.168.0.125'
 PORT = 8001
 
